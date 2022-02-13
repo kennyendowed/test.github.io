@@ -763,7 +763,7 @@ a {
 
 /*========================================== 9.COUNTER START ===========================================*/
 .counter-bgimage {
-    background-image: url("../../images/1920x700x1.jpg");
+    background-image: url("../../images/Best-Construct.jpg");
 }
 .counter-bg-padding {
     padding-bottom: 200px;
@@ -1393,7 +1393,7 @@ only screen and (min-resolution: 1.5dppx) {
 		background-image: url("../../images/video-header@2x.jpg");
 	}
 	.counter-bgimage {
-		background-image: url("../../images/1920x700x1@2x.jpg");
+		background-image: url("../../images/Best-Construct.jpg");
 	}
 	.cta-bgimage {
 		background-image: url("../../images/1920x700x2@2x.jpg");
