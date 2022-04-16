@@ -1,0 +1,9 @@
+ul.shield-check-list-items {
+     line-height: 1.8;
+    margin-left: -20px;
+    /* list-style-position: inside; */
+  }
+  
+  ul li:not(:last-child) {
+    margin-bottom: 20px;
+  }
